@@ -1,13 +1,13 @@
-#Suspending Server
+# Suspending Server
 
-##A simple server that can be configured to return a delayed response.
+## A simple server that can be configured to return a delayed response.
 
-##Installation
+## Installation
 ```bash
 npm install
 ```
 
-##Running the server
+## Running the server
 ```bash
 npm run start
 ```
